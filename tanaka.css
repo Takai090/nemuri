@@ -1,0 +1,26 @@
+#purple_btn {
+	background: purple;
+}
+#red_btn {
+    background: #ff8888;    /* ボタン色 */
+}
+
+#blue_btn {
+    background: #8888ff;    /* ボタン色*/
+}
+
+#green_btn {
+    background: #88ff88;    /* ボタン色 */
+}
+
+#easy_btn {
+    background: #aaffaa;
+}
+
+#normal_btn {
+    background: #8888ff;
+}
+
+#hard_btn {
+    background: #ff6666;
+}
